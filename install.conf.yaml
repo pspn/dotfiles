@@ -9,6 +9,8 @@
         ~/.tmux.conf: tmux.conf
         ~/.vim/colors: vim/colors
         ~/.vim/ftplugin: vim/ftplugin
+        ~/.config/nvim/init.vim: config/nvim/init.vim
+        ~/.config/nvim/autoload: config/nvim/autoload
 
 #- shell:
         #-[git submodule update --init --recursive, Installing submodules]
