@@ -1,29 +1,34 @@
-
 " Plugins List
 
 call plug#begin('~/.config/nvim/plugged')
 
-	" UI related
-	Plug 'chriskempson/base16-vim'
-	Plug 'vim-airline/vim-airline'
-	Plug 'vim-airline/vim-airline-themes'
-	
-	" Better Visult Guide
-	Plug 'Yggdroot/indentLine'
+" UI related
+Plug 'chriskempson/base16-vim'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
-	" synntax check
-	Plug 'w0rp/ale'
+" Better Visult Guide
+Plug 'Yggdroot/indentLine'
 
-	" Autocomplete
-	Plug 'ncm2/ncm2'
-	Plug 'roxma/nvim-yarp'
+" synntax check
+Plug 'w0rp/ale'
 
-	Plug 'ncm2/ncm2-bufword'
-	Plug 'ncm2/ncm2-path'
-	Plug 'ncm2/ncm2-jedi'
+" Autocomplete
+Plug 'ncm2/ncm2'
+Plug 'roxma/nvim-yarp'
+Plug 'ncm2/ncm2-bufword'
+Plug 'ncm2/ncm2-path'
+Plug 'ncm2/ncm2-jedi'
 
-	" Formater
-	Plug 'Chiel92/vim-autoformat'
+Plug 'tpope/vim-surround'
+Plug 'jiangmiao/auto-pairs'
+Plug 'ervandew/supertab'
+
+" Formater
+Plug 'Chiel92/vim-autoformat'
+
+" Git Support
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
@@ -64,8 +69,8 @@ set noswapfile
 set nowritebackup
 
 " Search configuration
-set ignorecase			" ignore case when searching
-set smartcase			" turn on smartcase
+set ignorecase          " ignore case when searching
+set smartcase           " turn on smartcase
 
 " Tab and Indent configuration
 set expandtab
@@ -74,6 +79,8 @@ set shiftwidth=4
 
 " vim-autoformat
 noremap <F3> :Autoformat<CR>
+au BufWrite * :Autoformat       " code be formatted upon saving you file
+
 
 " NCM2
 augroup NCM2
