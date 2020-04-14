@@ -1,0 +1,12 @@
+{
+  "extensions": {
+    "%2FUsers%2Fpspn%2FData%2Fmobile%20hacking%2FWaTF-Bank%2FWaTF-Bank-Backend": [
+      " e"
+    ]
+  },
+  "symbols": {
+    "%2FUsers%2Fpspn%2FData%2Fmobile%20hacking%2FWaTF-Bank%2FWaTF-Bank-Backend": [
+      "print(helo)"
+    ]
+  }
+}

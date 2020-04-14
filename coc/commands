@@ -1,0 +1,6 @@
+workspace.clearWatchman
+workspace.workspaceFolders
+workspace.renameCurrentFile
+extensions.toggleAutoUpdate
+editor.action.organizeImport
+editor.actoin.organizeImport

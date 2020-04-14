@@ -11,7 +11,11 @@
         ~/.vim/ftplugin: vim/ftplugin
         ~/.config/nvim/init.vim: config/nvim/init.vim
         ~/.config/nvim/autoload: config/nvim/autoload
-
+        ~/.config/nvim/coc-settings.json: config/nvim/coc-settings.json
+        ~/.config/base16-shell: base16-shell
+        ~/.config/coc: coc
+        
+        
 #- shell:
         #-[git submodule update --init --recursive, Installing submodules]
 
