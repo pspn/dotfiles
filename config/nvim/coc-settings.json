@@ -2,5 +2,6 @@
     "coc.preferences.formatOnSaveFiletypes": [
       "python"
     ],
+    "suggest.autoTrigger":"trigger",
     "coc.preferences.extensionUpdateCheck": "never"
 }

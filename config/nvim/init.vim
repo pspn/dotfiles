@@ -56,6 +56,7 @@ set hidden
 set mouse=a
 set noshowmode
 set noshowmatch
+set nohlsearch
 set nolazyredraw
 
 " Turn off backup
