@@ -2,6 +2,7 @@
     "coc.preferences.formatOnSaveFiletypes": [
       "python"
     ],
+    // Disable auto popup completion
     "suggest.autoTrigger":"trigger",
     "coc.preferences.extensionUpdateCheck": "never"
 }

@@ -150,10 +150,14 @@ nmap <leader>f <Plug>(coc-format-selected)
 augroup mygroup
     autocmd!
     " Setup formatexpr specified filetypes(s).
-    autocmd FileType typescript,json setl formatexpr=CocAction('formatSelected')
+    autocmd FileType typescript,json,python,c setl formatexpr=CocAction('formatSelected')
     " Update signature help on jump placeholder.
     autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
 augroup end
+
+" To get correct comment highlighting of json file
+autocmd FileType json syntax match Comment +\/\/.\+$+
+
 
 " Applying codeAction to the selected region.
 " Example: `<leader>aap` for current paragraph
