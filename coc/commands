@@ -1,3 +1,4 @@
+eslint.showOutputChannel
 workspace.clearWatchman
 workspace.workspaceFolders
 workspace.renameCurrentFile
