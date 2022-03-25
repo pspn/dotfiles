@@ -1,7 +1,8 @@
 call plug#begin('~/.config/nvim/plugged')
 
 " UI related
-Plug 'chriskempson/base16-vim'
+"Plug 'chriskempson/base16-vim'
+Plug 'joshdick/onedark.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
@@ -47,8 +48,12 @@ set cmdheight=2
 set encoding=utf-8
 
 " colorscheme
-let base16colorspace=256
-colorscheme base16-gruvbox-dark-hard
+"let base16colorspace=256
+let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+
+"colorscheme base16-gruvbox-dark-hard
+colorscheme onedark
+"set termguicolors
 set background=dark
 
 

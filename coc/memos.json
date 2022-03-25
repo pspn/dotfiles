@@ -143,7 +143,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1615805901226
+      "expiry": 1632576733448
     },
     "/usr/bin/python2.7.v3": {
       "data": {
@@ -168,7 +168,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1615805901230
+      "expiry": 1632576733456
     },
     "/usr/bin/python2.v3": {
       "data": {
@@ -193,7 +193,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1615805901233
+      "expiry": 1632576733457
     },
     "/usr/local/bin/python3.v3": {
       "data": {
@@ -205,20 +205,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "afad8828792929ee0d01cd559fa4002a8a8fa1d272614bda3f966a539adab91d82362b3008095267a3796eba67f6a4281802bd7a8af851ba82e3c7a0ca386113"
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "b2a9c2b21001fefbf575d07a8015e13ad0c78e44aa9300a852547443e3189005c128120f8702e9b75653cc90f8b6578953f57ef45dda880993bcd80ba1123fbd"
       },
-      "expiry": 1615805901386
+      "expiry": 1632576733450
     },
     "/usr/local/bin/python3.7.v3": {
       "data": {
@@ -268,7 +268,7 @@
         "sysPrefix": "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1615805901414
+      "expiry": 1632576734645
     },
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
       {
@@ -280,18 +280,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "afad8828792929ee0d01cd559fa4002a8a8fa1d272614bda3f966a539adab91d82362b3008095267a3796eba67f6a4281802bd7a8af851ba82e3c7a0ca386113",
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "b2a9c2b21001fefbf575d07a8015e13ad0c78e44aa9300a852547443e3189005c128120f8702e9b75653cc90f8b6578953f57ef45dda880993bcd80ba1123fbd",
         "type": "Unknown"
       },
       {
@@ -303,18 +303,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "a43de07c7879ebc8bcbc36781ad874913c462e55ba47f5cba0eb6cd68d1c26b590739f9ea4a6011dc75bf3fd2e28286381a3c4af2e183d8a03b904f0a8d536e7",
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "9d25b5d4ee5b2ce2ec302c42fb09a81ddaa6c951c5d96b38a2daae702fe22aca1b92d5ce66953f7312ba7ca058ad1ad4cea0d36023cc441acf3e4df3d06adb81",
         "type": "Unknown"
       },
       {
@@ -418,18 +418,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "afad8828792929ee0d01cd559fa4002a8a8fa1d272614bda3f966a539adab91d82362b3008095267a3796eba67f6a4281802bd7a8af851ba82e3c7a0ca386113",
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "b2a9c2b21001fefbf575d07a8015e13ad0c78e44aa9300a852547443e3189005c128120f8702e9b75653cc90f8b6578953f57ef45dda880993bcd80ba1123fbd",
         "type": "Unknown"
       },
       {
@@ -441,18 +441,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "a43de07c7879ebc8bcbc36781ad874913c462e55ba47f5cba0eb6cd68d1c26b590739f9ea4a6011dc75bf3fd2e28286381a3c4af2e183d8a03b904f0a8d536e7",
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "9d25b5d4ee5b2ce2ec302c42fb09a81ddaa6c951c5d96b38a2daae702fe22aca1b92d5ce66953f7312ba7ca058ad1ad4cea0d36023cc441acf3e4df3d06adb81",
         "type": "Unknown"
       },
       {
@@ -571,7 +571,7 @@
         "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
         "fileHash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2"
       },
-      "expiry": 1615805901385
+      "expiry": 1632576733660
     },
     "/usr/local/opt/python/bin/python3.7.v3": {
       "data": {
@@ -608,18 +608,18 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa",
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
         "type": "Unknown"
       },
       {
@@ -701,18 +701,18 @@
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.9.2-final",
+        "raw": "3.9.7-final",
         "major": 3,
         "minor": 9,
-        "patch": 2,
+        "patch": 7,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.9.2-final"
+        "version": "3.9.7-final"
       },
-      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-      "fileHash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa",
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
       "type": "Unknown"
     },
     "PipEnvInformation": [
@@ -724,24 +724,24 @@
     ],
     "/usr/local/bin/python3.interpreter.displayName.v7": {
       "data": {
-        "displayName": "Python 3.9.2 64-bit",
-        "hash": "afad8828792929ee0d01cd559fa4002a8a8fa1d272614bda3f966a539adab91d82362b3008095267a3796eba67f6a4281802bd7a8af851ba82e3c7a0ca386113-cce7fa29ed2614053786c08114d486a1"
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "b2a9c2b21001fefbf575d07a8015e13ad0c78e44aa9300a852547443e3189005c128120f8702e9b75653cc90f8b6578953f57ef45dda880993bcd80ba1123fbd-6f57673f420ad1a5a9c0f55c439d8c69"
       },
-      "expiry": 1615805901426
+      "expiry": 1632576863405
     },
     "/usr/bin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 2.7.16 64-bit",
         "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-f5b651b9c4b75532b11ae83303c43d14"
       },
-      "expiry": 1615805901519
+      "expiry": 1632576863403
     },
     "/usr/bin/python3.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.8.2 64-bit",
         "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-4bc3c9f5346452a4fe404c621ebcd443"
       },
-      "expiry": 1615805901523
+      "expiry": 1632576863407
     },
     "/usr/local/opt/python/bin/python3.7.interpreter.displayName.v7": {
       "data": {
@@ -755,11 +755,11 @@
         "displayName": "Python 2.7.16 64-bit",
         "hash": "fe779c276a2cbfead74d365db0ac2cbfcea62106a4f0a4f6c9ded35d45b630e271af9461b8083f72f5c25478015c8409ecfa63d05b8eac8c5d1442777dd260d2-a9fb100b1ab04c53a774363838d4885e"
       },
-      "expiry": 1615805901521
+      "expiry": 1632576733843
     },
     "/usr/local/bin/python3.interpreter.Details.v7": {
       "data": {
-        "fileHash": "afad8828792929ee0d01cd559fa4002a8a8fa1d272614bda3f966a539adab91d82362b3008095267a3796eba67f6a4281802bd7a8af851ba82e3c7a0ca386113",
+        "fileHash": "b2a9c2b21001fefbf575d07a8015e13ad0c78e44aa9300a852547443e3189005c128120f8702e9b75653cc90f8b6578953f57ef45dda880993bcd80ba1123fbd",
         "info": {
           "architecture": 3,
           "path": "/usr/local/bin/python3",
@@ -769,23 +769,23 @@
               "includePrerelease": false
             },
             "loose": false,
-            "raw": "3.9.2-final",
+            "raw": "3.9.7-final",
             "major": 3,
             "minor": 9,
-            "patch": 2,
+            "patch": 7,
             "prerelease": [
               "final"
             ],
             "build": [],
-            "version": "3.9.2-final"
+            "version": "3.9.7-final"
           },
-          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-          "fileHash": "afad8828792929ee0d01cd559fa4002a8a8fa1d272614bda3f966a539adab91d82362b3008095267a3796eba67f6a4281802bd7a8af851ba82e3c7a0ca386113",
+          "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "b2a9c2b21001fefbf575d07a8015e13ad0c78e44aa9300a852547443e3189005c128120f8702e9b75653cc90f8b6578953f57ef45dda880993bcd80ba1123fbd",
           "type": "Unknown",
-          "displayName": "Python 3.9.2 64-bit"
+          "displayName": "Python 3.9.7 64-bit"
         }
       },
-      "expiry": 1615805901530
+      "expiry": 1632576863434
     },
     "/usr/bin/python.interpreter.Details.v7": {
       "data": {
@@ -815,7 +815,7 @@
           "displayName": "Python 2.7.16 64-bit"
         }
       },
-      "expiry": 1615805901535
+      "expiry": 1632576863430
     },
     "/usr/bin/python3.interpreter.Details.v7": {
       "data": {
@@ -845,7 +845,7 @@
           "displayName": "Python 3.8.2 64-bit"
         }
       },
-      "expiry": 1615805901543
+      "expiry": 1632576863439
     },
     "/usr/local/opt/python/bin/python3.7.interpreter.Details.v7": {
       "data": {
@@ -905,7 +905,7 @@
           "displayName": "Python 2.7.16 64-bit"
         }
       },
-      "expiry": 1615805901539
+      "expiry": 1632576733882
     },
     "ProposeLSBanner": false,
     "/Users/pspn/Data/python_sandbox/auto/myenv/bin/python3.v3": {
@@ -1105,31 +1105,31 @@
         "sysPrefix": "/Users/pspn/opt/anaconda3",
         "fileHash": "d005f9744b2bba21e0493b273c7afd97f5ead526d00d10909a23d43508c486517acf2080a59f96fa183641b1f753306692e69d1152795fd3dd9958e9ee7a922f"
       },
-      "expiry": 1615805901381
+      "expiry": 1632576733654
     },
     "preferredGlobalPyInterpreter": {
       "architecture": 3,
-      "path": "/usr/local/bin/python3",
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.9.1-final",
+        "raw": "3.9.7-final",
         "major": 3,
         "minor": 9,
-        "patch": 1,
+        "patch": 7,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.9.1-final"
+        "version": "3.9.7-final"
       },
-      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
-      "fileHash": "7ddb0e8eceb01ecd906a5c05f4dfa0c2cd4a4d5b54aa67abd2768b7e826a567f9d5f04d9103a1a84d4ce0dcfbead28c612c5a5eeb70e162f30105c0342969c68",
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
       "type": "Unknown",
-      "displayName": "Python 3.9.1 64-bit"
+      "displayName": "Python 3.9.7 64-bit"
     },
     "InterpreterAutoSeletionRule-system": {
       "architecture": 3,
@@ -1140,20 +1140,20 @@
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.9.2-final",
+        "raw": "3.9.7-final",
         "major": 3,
         "minor": 9,
-        "patch": 2,
+        "patch": 7,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.9.2-final"
+        "version": "3.9.7-final"
       },
-      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-      "fileHash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa",
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
       "type": "Unknown",
-      "displayName": "Python 3.9.2 64-bit"
+      "displayName": "Python 3.9.7 64-bit"
     },
     "/usr/local/opt/python@3.8/bin/python3.8.interpreter.Details.v7": {
       "data": {
@@ -1194,28 +1194,27 @@
     },
     "InterpreterAutoSeletionRule-cachedInterpreters": {
       "architecture": 3,
-      "path": "/usr/local/bin/python3",
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
       "version": {
         "options": {
           "loose": false,
           "includePrerelease": false
         },
         "loose": false,
-        "raw": "3.9.1-final",
+        "raw": "3.9.7-final",
         "major": 3,
         "minor": 9,
-        "patch": 1,
+        "patch": 7,
         "prerelease": [
           "final"
         ],
         "build": [],
-        "version": "3.9.1-final"
+        "version": "3.9.7-final"
       },
-      "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.1_6/Frameworks/Python.framework/Versions/3.9",
-      "fileHash": "7ddb0e8eceb01ecd906a5c05f4dfa0c2cd4a4d5b54aa67abd2768b7e826a567f9d5f04d9103a1a84d4ce0dcfbead28c612c5a5eeb70e162f30105c0342969c68",
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
       "type": "Unknown",
-      "cachedEntry": true,
-      "displayName": "Python 3.9.1 64-bit"
+      "displayName": "Python 3.9.7 64-bit"
     },
     "/usr/local/bin/python3.9.v3": {
       "data": {
@@ -1227,20 +1226,20 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "a43de07c7879ebc8bcbc36781ad874913c462e55ba47f5cba0eb6cd68d1c26b590739f9ea4a6011dc75bf3fd2e28286381a3c4af2e183d8a03b904f0a8d536e7"
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "9d25b5d4ee5b2ce2ec302c42fb09a81ddaa6c951c5d96b38a2daae702fe22aca1b92d5ce66953f7312ba7ca058ad1ad4cea0d36023cc441acf3e4df3d06adb81"
       },
-      "expiry": 1615805901174
+      "expiry": 1632576733665
     },
     "/Users/pspn/.local/share/virtualenvs/python-wls-rKmUxwoE/bin/python3.9.v3": {
       "data": {
@@ -1390,31 +1389,31 @@
             "includePrerelease": false
           },
           "loose": false,
-          "raw": "3.9.2-final",
+          "raw": "3.9.7-final",
           "major": 3,
           "minor": 9,
-          "patch": 2,
+          "patch": 7,
           "prerelease": [
             "final"
           ],
           "build": [],
-          "version": "3.9.2-final"
+          "version": "3.9.7-final"
         },
-        "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-        "fileHash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa"
+        "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe"
       },
-      "expiry": 1615805901388
+      "expiry": 1632576733661
     },
     "/usr/local/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
       "data": {
-        "displayName": "Python 3.9.2 64-bit",
-        "hash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa-b868a7e77625fe7a28cb81e369d53072"
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe-b37adc5e7fac87c5f4496579a61562e6"
       },
-      "expiry": 1615805901525
+      "expiry": 1632576733915
     },
     "/usr/local/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
       "data": {
-        "fileHash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa",
+        "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
         "info": {
           "architecture": 3,
           "path": "/usr/local/opt/python@3.9/bin/python3.9",
@@ -1424,23 +1423,23 @@
               "includePrerelease": false
             },
             "loose": false,
-            "raw": "3.9.2-final",
+            "raw": "3.9.7-final",
             "major": 3,
             "minor": 9,
-            "patch": 2,
+            "patch": 7,
             "prerelease": [
               "final"
             ],
             "build": [],
-            "version": "3.9.2-final"
+            "version": "3.9.7-final"
           },
-          "sysPrefix": "/usr/local/Cellar/python@3.9/3.9.2_1/Frameworks/Python.framework/Versions/3.9",
-          "fileHash": "cbd146237dc587d251ce790c2cfd37e70397d2f48554d54f6b16c0427a2c8f1a38a9e10daebfc667a87124be7a55a8f0ce00e0d48861857bf8eef37ca32667aa",
+          "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
           "type": "Unknown",
-          "displayName": "Python 3.9.2 64-bit"
+          "displayName": "Python 3.9.7 64-bit"
         }
       },
-      "expiry": 1615805901547
+      "expiry": 1632576863443
     }
   },
   "coc-python|/Users/pspn/Data/mobile hacking/WaTF-Bank/WaTF-Bank-Backend": {
@@ -1780,5 +1779,35 @@
         "/Users/pspn/Data/VIM-TMUX Howto/code/quickfix/node_modules/eslint/lib/api.js": true
       }
     }
+  },
+  "coc-python|/Users/pspn/Data/python_sandbox": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d3425b22c68768d7330be8eb2100547a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d3425b22c68768d7330be8eb2100547a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/pspn/Data/python_sandbox": {
+      "architecture": 3,
+      "path": "/usr/local/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "809c2e3354eeeb12ffbd832a1216e21bf5f033f622735370ecf43e66273b5efb631bf330160cc45a4265470e37903702f52f0b5c4f6aac52eceb94a8a2d699fe",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
   }
 }
